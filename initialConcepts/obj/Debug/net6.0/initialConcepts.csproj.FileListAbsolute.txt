@@ -1,0 +1,15 @@
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\bin\Debug\net6.0\initialConcepts.exe
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\bin\Debug\net6.0\initialConcepts.deps.json
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\bin\Debug\net6.0\initialConcepts.runtimeconfig.json
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\bin\Debug\net6.0\initialConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\bin\Debug\net6.0\ref\initialConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\bin\Debug\net6.0\initialConcepts.pdb
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.csproj.AssemblyReference.cache
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.AssemblyInfoInputs.cache
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.AssemblyInfo.cs
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\ref\initialConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.pdb
+C:\Users\luanm\Dev\DevExercises\c#\initialConcepts\obj\Debug\net6.0\initialConcepts.genruntimeconfig.cache
