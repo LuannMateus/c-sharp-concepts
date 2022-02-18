@@ -1,4 +1,5 @@
 ﻿using POO.src.Models;
+using POO.src.Interfaces;
 
 /* 
   ? Conceitos da POO
@@ -18,7 +19,7 @@ namespace POO
   {
     static void Main(string[] args)
     {
-      // * Abstração
+      // * Abstraction
       Console.WriteLine("\n--- Abstração ---\n");
 
       Person p1 = new Person();
@@ -26,7 +27,7 @@ namespace POO
       p1.SetAge(31);
       p1.Introduction();
 
-      // * Encapsulamento
+      // * Encapsulation
       Console.WriteLine("\n--- Encapsulamento ---\n");
 
       Retangle r = new Retangle();
@@ -35,7 +36,7 @@ namespace POO
       r.DefineMeasure(1, 0);
       Console.WriteLine(r.CalcArea());
 
-      // * Herança e Polimorfismo
+      // * Inheritance and Polymorphism
       Console.WriteLine("\n--- Herança ---\n");
 
       Professor professor = new Professor();
@@ -55,22 +56,25 @@ namespace POO
       System.Console.WriteLine(calculator.Sum(1, 1));
       System.Console.WriteLine(calculator.Sum(1, 1, 1));
 
-      // * Classes Abstratas
+      // * Abstract class
       Console.WriteLine("\n---  Classes Abstratas ---\n");
 
       CheckingAccount checkingAccount = new CheckingAccount();
       checkingAccount.ShowBalance();
 
-      // * Métodos selados
+      // * Sealed methods
       Console.WriteLine("\n---  Métodos selados ---\n");
       Principal principal = new Principal();
       principal.Introduction();
 
-      // * Clasee Object
+      // * Object class
       Console.WriteLine("\n---  Classe Object ---\n");
       Compute compute = new Compute();
       System.Console.WriteLine(compute.ToString());
 
+      // * Interfaces
+      ICalculator calculatorWithInterface = new Calculator();
+      System.Console.WriteLine(calculatorWithInterface.Sum(1.5, 1.5));
     }
   }
 }

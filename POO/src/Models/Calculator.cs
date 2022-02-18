@@ -1,15 +1,27 @@
+using POO.src.Interfaces;
 namespace POO.src.Models
 {
-  public class Calculator
+  public class Calculator : ICalculator
   {
-    public int Sum(int x, int y)
+    public double Multiplication(double x, double y)
+    {
+      return x * y;
+    }
+
+    public double Subtraction(double x, double y)
+    {
+      return x - y;
+    }
+
+    public double Sum(double x, double y)
     {
       return x + y;
     }
 
-    public int Sum(int x, int y, int z)
+    public double Sum(double x, double y, double z)
     {
       return x + y + z;
     }
+
   }
 }
