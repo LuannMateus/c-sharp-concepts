@@ -2,9 +2,9 @@ namespace POO.src.Models
 {
   public class Professor : Person
   {
-    private double salary;
+    protected double salary;
 
-    public override void Introduction()
+    public sealed override void Introduction()
     {
       Console.WriteLine($"Hello, my name is {Name} and i'm {Age} old with {salary} salary.");
     }

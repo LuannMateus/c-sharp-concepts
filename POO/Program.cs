@@ -55,7 +55,22 @@ namespace POO
       System.Console.WriteLine(calculator.Sum(1, 1));
       System.Console.WriteLine(calculator.Sum(1, 1, 1));
 
-      // * 
+      // * Classes Abstratas
+      Console.WriteLine("\n---  Classes Abstratas ---\n");
+
+      CheckingAccount checkingAccount = new CheckingAccount();
+      checkingAccount.ShowBalance();
+
+      // * Métodos selados
+      Console.WriteLine("\n---  Métodos selados ---\n");
+      Principal principal = new Principal();
+      principal.Introduction();
+
+      // * Clasee Object
+      Console.WriteLine("\n---  Classe Object ---\n");
+      Compute compute = new Compute();
+      System.Console.WriteLine(compute.ToString());
+
     }
   }
 }
