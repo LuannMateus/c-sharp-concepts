@@ -1,0 +1,15 @@
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\bin\Debug\net6.0\fileManipulation.exe
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\bin\Debug\net6.0\fileManipulation.deps.json
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\bin\Debug\net6.0\fileManipulation.runtimeconfig.json
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\bin\Debug\net6.0\fileManipulation.dll
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\bin\Debug\net6.0\ref\fileManipulation.dll
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\bin\Debug\net6.0\fileManipulation.pdb
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.csproj.AssemblyReference.cache
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.AssemblyInfoInputs.cache
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.AssemblyInfo.cs
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.dll
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\ref\fileManipulation.dll
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.pdb
+C:\Users\luanm\Dev\DevExercises\c#\fileManipulation\obj\Debug\net6.0\fileManipulation.genruntimeconfig.cache
