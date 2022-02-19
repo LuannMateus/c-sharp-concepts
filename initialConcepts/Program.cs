@@ -44,6 +44,10 @@ namespace Src
       Date date = new Date();
       date.Month = 12;
       date.ShowMonth();
+
+      // * Constant concept
+      const double PI = 3.14;
+      System.Console.WriteLine(PI);
     }
   }
 }
