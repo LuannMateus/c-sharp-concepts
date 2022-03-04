@@ -1,0 +1,15 @@
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.csproj.AssemblyReference.cache
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.AssemblyInfoInputs.cache
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.AssemblyInfo.cs
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.csproj.CoreCompileInputs.cache
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\bin\Debug\net6.0\collectionConcepts.exe
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\bin\Debug\net6.0\collectionConcepts.deps.json
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\bin\Debug\net6.0\collectionConcepts.runtimeconfig.json
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\bin\Debug\net6.0\collectionConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\bin\Debug\net6.0\ref\collectionConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\bin\Debug\net6.0\collectionConcepts.pdb
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\ref\collectionConcepts.dll
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.pdb
+C:\Users\luanm\Dev\DevExercises\c#\collectionConcepts\obj\Debug\net6.0\collectionConcepts.genruntimeconfig.cache

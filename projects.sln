@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fileManipulation", "fileMan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "initialConcepts", "initialConcepts\initialConcepts.csproj", "{7F39013E-CF6B-4380-954A-09C3E9AE22FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "collectionConcepts", "collectionConcepts\collectionConcepts.csproj", "{4C88B408-8F3B-4AEA-8A6C-4660DAA6A168}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,5 +36,9 @@ Global
 		{7F39013E-CF6B-4380-954A-09C3E9AE22FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F39013E-CF6B-4380-954A-09C3E9AE22FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F39013E-CF6B-4380-954A-09C3E9AE22FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C88B408-8F3B-4AEA-8A6C-4660DAA6A168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C88B408-8F3B-4AEA-8A6C-4660DAA6A168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C88B408-8F3B-4AEA-8A6C-4660DAA6A168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C88B408-8F3B-4AEA-8A6C-4660DAA6A168}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
