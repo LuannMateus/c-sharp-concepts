@@ -1,4 +1,9 @@
 ﻿using collectionConcepts.src.ArrayConcept;
+using collectionConcepts.src.ListConcept;
+using collectionConcepts.src.QueueConcept;
+using collectionConcepts.src.StackConcept;
+using collectionConcepts.src.DictionaryConcept;
+using collectionConcepts.src.LinqConcept;
 
 namespace collectionConcepts
 {
@@ -95,6 +100,69 @@ namespace collectionConcepts
       System.Console.WriteLine($"The original array: {sourceArray}");
       string[] convertedArray = arrayIpm.ConvertToString(sourceArray);
       System.Console.WriteLine($"The converted array: {convertedArray}");
+
+      // * List
+      Console.WriteLine("\n\n -- List --\n\n");
+
+      ListImp list = new ListImp();
+      list.execute();
+
+      // * List Remove
+      Console.WriteLine("\n\n -- List Remove --\n\n");
+
+      List<string> states = new List<string>();
+
+      states.Add("CE");
+      states.Add("SP");
+      states.Add("BA");
+
+      states.Remove("CE");
+
+      list.Print(states);
+
+      // * List AddRange
+      Console.WriteLine("\n\n -- List AddRange --\n\n");
+
+      string[] statesArray = new string[] { "SC", "PB" };
+
+      states.AddRange(statesArray);
+
+      list.Print(states);
+
+      // * List Insert
+      Console.WriteLine("\n\n -- List Insert --\n\n");
+
+      states.Insert(0, "PR");
+
+      list.Print(states);
+
+      // * Queue
+      Console.WriteLine("\n\n -- Queue --\n\n");
+
+      QueueImp queueImp = new QueueImp();
+
+      queueImp.execute();
+
+      // * Stack
+      Console.WriteLine("\n\n -- Stack --\n\n");
+
+      StackImp stackImp = new StackImp();
+
+      stackImp.execute();
+
+      // * Dictionary
+      Console.WriteLine("\n\n -- Dictionary --\n\n");
+
+      DictionaryImp dictionaryImp = new DictionaryImp();
+
+      dictionaryImp.execute();
+
+      // * Linq
+      LinqImp linqImp = new LinqImp();
+
+      linqImp.execute();
+
+
     }
   }
 }
